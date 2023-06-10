@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fitara
-- 👀 I’m interested in frontend developer, but have strength in backend also
+- 👀 I'm a Hacktiv8 alumni as a fullstack developer, but I'm more interested as a frontend developer
 - 🌱 I’m always learning programming field
 - 💞️ I’m looking to opportunity for a fulltime job
 - 📫 How to reach me, justfitra11@gmail.com
