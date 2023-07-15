@@ -1,8 +1,23 @@
-- 👋 Hi, I’m @Fitara
-- 👀 I'm a Hacktiv8 alumni as a fullstack developer, but I'm more interested as a frontend developer
-- 🌱 I’m always learning programming field
-- 💞️ I’m looking to opportunity for a fulltime job
-- 📫 How to reach me, justfitra11@gmail.com
+👋 Hi, I’m @Fitara
+
+👀 I'm a Hacktiv8 alumni as a fullstack developer, but I'm more interested as a frontend developer
+
+🌟 About Me
+I am a passionate frontend developer with a strong foundation in web development. As a proud alumni of Hacktiv8, I have honed my skills in HTML, CSS, JavaScript, and various frontend frameworks such as React and Vue.js. I am dedicated to creating clean, intuitive, and responsive user interfaces that deliver exceptional user experiences.
+
+💼 Professional Experience
+I have gained hands-on experience through various projects during my time at Hacktiv8 and continue to expand my expertise through real-world applications. I have collaborated with cross-functional teams, translating design mockups into pixel-perfect web interfaces while ensuring code quality, maintainability, and performance optimization.
+
+🚀 Skills
+- Frontend Development: HTML5, CSS3, JavaScript (ES6+)
+- Frameworks/Libraries: React, Vue.js
+- Responsive Web Design
+- Version Control: Git, GitHub
+- UI/UX Design Principles
+- Agile Development Methodologies
+
+📫 Let's Connect
+I am always eager to collaborate on exciting frontend projects or discuss opportunities in the web development space. Feel free to reach out to me via email justfitra11@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/fitra11. Let's create innovative and impactful web experiences together!
 
 <!---
 Fitara/Fitara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
