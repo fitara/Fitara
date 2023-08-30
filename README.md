@@ -11,7 +11,7 @@
 🚀 Skills
 - Frontend Development: HTML5, CSS3, JavaScript (ES6+)
 - Frameworks/Libraries: React, Vue.js
-- Backend Development: Node.js, RESTful API Development, Express.js, Database Interaction (e.g., MongoDB), Authentication and Authorization, API Testing and Debugging, Deploying Node.js Applications, Socket.io (Real-time Web Sockets)
+- Backend Development: Node.js, RESTful API Development, Express.js, Database Interaction (e.g., postgreSQL, MongoDB), Authentication and Authorization, API Testing and Debugging, Deploying Node.js Applications, Socket.io (Real-time Web Sockets)
 - Responsive Web Design
 - Version Control: Git, GitHub
 - UI/UX Design Principles
