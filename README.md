@@ -1,17 +1,14 @@
-👋 Hi, I’m @Fitara
+👋 Hi, I’m Fitra
 
 👀 I'm a Hacktiv8 alumni as a fullstack developer, but I'm more interested as a frontend developer
 
-🌟 About Me
-  I am a passionate frontend developer with a strong foundation in web development. As a proud alumni of Hacktiv8, I have honed my skills in HTML, CSS, JavaScript, and various frontend frameworks such as React and Vue.js. I am dedicated to creating clean, intuitive, and responsive user interfaces that deliver exceptional user experiences. Additionally, I'm excited to expand my skill set to include backend development with Node.js.
-
-💼 Professional Experience
-  I have gained hands-on experience through various projects during my time at Hacktiv8 and continue to expand my expertise through real-world applications. I have collaborated with cross-functional teams, translating design mockups into pixel-perfect web interfaces while ensuring code quality, maintainability, and performance optimization.
+💼 About Me
+I am a passionate frontend developer with a strong foundation in web development. As a proud alumni of Hacktiv8, I have honed my skills in HTML, CSS, JavaScript, Typescript and various frontend frameworks such as VueJs and ReactJs. I am dedicated to creating clean, intuitive, and responsive user interfaces that deliver exceptional user experiences. Additionally, I'm excited to expand my skill set to include backend development with Node.js.
 
 🚀 Skills
-- Frontend Development: HTML5, CSS3, JavaScript (ES6+)
-- Frameworks/Libraries: React, Vue.js
-- Backend Development: Node.js, RESTful API Development, Express.js, Database Interaction (e.g., postgreSQL, MongoDB), Authentication and Authorization, API Testing and Debugging, Deploying Node.js Applications, Socket.io (Real-time Web Sockets)
+- Frontend Development: HTML5, CSS3, JavaScript (ES6+), Typescript
+- Frameworks/Libraries: ReactJs, VueJs
+- Backend Development: Node.js, RESTful API Development, ExpressJs, Database Interaction (e.g., postgreSQL, MongoDB), Authentication and Authorization, API Testing and Debugging, Deploying Node.js Applications, Socket.io (Real-time Web Sockets)
 - Responsive Web Design
 - Version Control: Git, GitHub
 - UI/UX Design Principles
